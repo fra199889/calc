@@ -8,7 +8,7 @@ addons:
  sonarcloud:
   organization: "fra199889"
   token:
-   secure: "caba8e5f24ae0a64fd4e12774bf7089187635fee"
+   secure: "28e6288d82b0540e2db1e6364c8109a468e8939c"
 
 script: 
 
