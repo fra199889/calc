@@ -13,7 +13,6 @@ addons:
 script: 
 
 - ant build
-- mvn clean install sonar:sonar
 - sonar-scanner
 
 
